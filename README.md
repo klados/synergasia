@@ -14,7 +14,7 @@ php -S localhost:8000
 
 ## Page url
 ```
-http://localhost:5000
+http://localhost:8000
 ```
 
 ## Screeshots
